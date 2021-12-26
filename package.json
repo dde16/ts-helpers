@@ -1,0 +1,7 @@
+{
+    "name": "ts-helpers",
+    "version": "1.0.1",
+    "description": "A library to override or extend native classes.",
+    "author": "dde16",
+    "main": "src/index.ts"
+}

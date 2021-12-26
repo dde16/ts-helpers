@@ -1,0 +1,14 @@
+import "./Promise";
+import "./Array";
+import "./Object";
+import "./Function";
+import "./Number";
+import "./String";
+import "./Crypto";
+import "./FormData";
+import "./ArrayBuffer";
+import "./HTMLElement";
+import "./FileReader";
+import "./Storage";
+import "./Function";
+import "./Window";
